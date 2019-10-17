@@ -1,0 +1,3 @@
+uma,12345678,uma@gmail.com
+lalasa,34566809,lalasa@gmail.com
+ammu,8919995471,lalasa510@gmail.com
